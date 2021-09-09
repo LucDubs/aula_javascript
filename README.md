@@ -13,3 +13,7 @@ Onde podemos ver: <br>
 -Eventos<br>
 -DOM<br>
 -Variáveis Globais<br>
+
+Dica: Para utilizar os códigos do JavaScript (que estão comentados), basta selecionar a parte que você quer testar, e descomentar com Ctrl + K + U, e para comentar novamente Ctrl + K + C
+
+;) Bons estudos!
